@@ -1,0 +1,14 @@
+Created by Harrison Hayes
+
+in ttyl1:
+g++ server.cpp -o server
+server
+
+in ttyl2:
+g++ client.cpp -o client
+client
+
+
+
+hostname of server is printed on the server side, enter the hostname or just type "localhost" when prompted by the
+client.
